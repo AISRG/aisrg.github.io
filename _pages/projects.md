@@ -1,4 +1,5 @@
 ---
+sort_menu: 03
 layout: page
 title: projects
 permalink: /projects/
