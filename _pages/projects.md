@@ -1,7 +1,7 @@
 ---
 sort_menu: 03
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A growing collection of projects.
 nav: false

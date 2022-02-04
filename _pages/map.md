@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /map/
-title: map
+title: Map
 description: Map of all the resources
 nav: false
 ---

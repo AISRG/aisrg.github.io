@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contributing/
-title: contributing
+title: Contributing
 description: How you can contribute to the reading group!
 nav: false
 ---
@@ -10,11 +10,11 @@ nav: false
 Once you have done any of the below, make a PR to submit your files/blogs/resources and we'll confirm the changes.
 
 
-# Presentations
+## Presentations
 Every 2 weeks, at least 2 people will present on some topic. You can join them :D
 
-# Blogs
+## Blogs
 Contribute by writing blogs on topics/ writeups 
 
-# Resources
+## Resources
 Add playlists from YouTube, courses online and from other universities!

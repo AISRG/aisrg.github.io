@@ -1,16 +1,16 @@
 ---
 sort_menu: 05
 layout: page
-title: info
+title: Info
 nav: true
 dropdown: true
 children: 
-    - title: contributing
+    - title: Contributing
       permalink: /contributing/
     - title: divider
-    - title: map
+    - title: Map
       permalink: /map/
     - title: divider
-    - title: projects
+    - title: Projects
       permalink: /projects/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /events/
-title: events
+title: Events
 description: The students @ AISRG-IITB
 nav: true
 ---
