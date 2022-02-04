@@ -11,6 +11,6 @@ children:
     - title: map
       permalink: /map/
     - title: divider
-    - title: people
-      permalink: /people/
+    - title: projects
+      permalink: /projects/
 ---

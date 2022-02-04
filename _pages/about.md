@@ -20,3 +20,17 @@ AISRG is an artificial intelligence and machine learning reading group at IIT Bo
 - Repository of all discussions, presentations, projects and blogs posted by the students
 - Evergrowing repository of the great material out there on the internet related to various fields
 - Collaboration for competitions, hackathons
+
+<hr>
+[Blog](https://www.aisrg.github.io/blog): Evergrowing list of articles
+
+[Events](https://www.aisrg.github.io/events): Schedule of events & talks
+
+[Resources](https://www.aisrg.github.io/resources): Plethora of resources related to AI/ML
+
+[Events](https://www.aisrg.github.io/contributing): How one can add resources
+
+[Map](https://www.aisrg.github.io/map): Map of the github organization
+
+[Projects](https://www.aisrg.github.io/projects): Projects one wants to showcase/done within the group
+

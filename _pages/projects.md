@@ -4,8 +4,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of projects.
-nav: true
-display_categories: [work, fun]
+nav: false
+display_categories: [self, group, other]
 horizontal: false
 ---
 
