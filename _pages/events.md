@@ -2,7 +2,7 @@
 layout: page
 permalink: /events/
 title: Events
-description: The students @ AISRG-IITB
+description: The Events @ AISRG-IITB
 nav: true
 ---
 
@@ -24,8 +24,8 @@ nav: true
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">06/02/2022</td>
-    <td class="tg-c3ow"> - </td>
+    <td class="tg-c3ow">06/02/2022 - 4:00 PM</td>
+    <td class="tg-c3ow"> Eeshaan, Ipsit </td>
     <td class="tg-c3ow">First Meet (Microsoft Teams)</td>
   </tr>
 </tbody>
