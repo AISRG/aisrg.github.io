@@ -21,7 +21,8 @@ AISRG is an artificial intelligence and machine learning reading group at IIT Bo
 - Evergrowing repository of the great material out there on the internet related to various fields
 - Collaboration for competitions, hackathons  
 
-You can take a look at the site map [here](/map).
+You can take a look at the site map [here](/map).  
+Volunteers can fill [this](https://forms.gle/TJM2WBPEgxbriNnq7){:target="_blank"} form to make a presentation.
 
 ---
 
