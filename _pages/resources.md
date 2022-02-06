@@ -5,4 +5,5 @@ permalink: /resources/
 title: Resources
 nav: true
 ---
-Will be added soon!
+
+- [Slides](/assets/pdf/inaugural.pdf) of the Inaugural Session.

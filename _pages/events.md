@@ -20,6 +20,7 @@ nav: true
     <th class="tg-c3ow">Date</th>
     <th class="tg-c3ow">Presenter</th>
     <th class="tg-c3ow">Topic</th>
+    <th class="tg-c3ow">Files</th>
   </tr>
 </thead>
 <tbody>
@@ -27,6 +28,7 @@ nav: true
     <td class="tg-c3ow">06/02/2022 - 4:00 PM</td>
     <td class="tg-c3ow"> Eeshaan, Ipsit </td>
     <td class="tg-c3ow">First Meet (Microsoft Teams)</td>
+    <td class="tg-c3ow"><a href="/assets/pdf/inaugural.pdf" target="_blank">Slides</a></td>
   </tr>
 </tbody>
 </table></div>
