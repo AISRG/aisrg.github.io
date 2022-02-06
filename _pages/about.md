@@ -19,9 +19,13 @@ AISRG is an artificial intelligence and machine learning reading group at IIT Bo
 - Platform for intellectual discussions on latest topics in machine learning
 - Repository of all discussions, presentations, projects and blogs posted by the students
 - Evergrowing repository of the great material out there on the internet related to various fields
-- Collaboration for competitions, hackathons
+- Collaboration for competitions, hackathons  
+
+You can take a look at the site map [here](/map).
+
 ---
-Sample papers one can present:
+
+Sample papers one can present:  
 ### CV
 1. [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
 
@@ -34,19 +38,5 @@ Sample papers one can present:
 
 ### GNN
 1. [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
-
-<!-- <hr> -->
----
-
-[Blog](/blog): Evergrowing list of articles
-
-[Events](/events): Schedule of events & talks
-
-[Resources](/resources): Plethora of resources related to AI/ML
-
-[Contributing](/contributing): How one can add resources
-
-[Map](/map): Map of the github organization
-
-[Projects](/projects): Projects one wants to showcase/done within the group
+2. [BuildingNet: Learning to Label 3D Buildings](https://buildingnet.org/)
 
