@@ -24,7 +24,7 @@ AISRG is an artificial intelligence and machine learning reading group at IIT Bo
 You can take a look at the site map [here](/map).  
 Volunteers can fill [this](https://forms.gle/TJM2WBPEgxbriNnq7){:target="_blank"} form to make a presentation.
 
----
+<!-- ---
 
 Sample papers one can present:  
 ### CV
@@ -39,5 +39,5 @@ Sample papers one can present:
 
 ### GNN
 1. [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
-2. [BuildingNet: Learning to Label 3D Buildings](https://buildingnet.org/)
+2. [BuildingNet: Learning to Label 3D Buildings](https://buildingnet.org/) -->
 

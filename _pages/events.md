@@ -30,5 +30,11 @@ nav: true
     <td class="tg-c3ow">First Meet (Microsoft Teams)</td>
     <td class="tg-c3ow"><a href="/assets/pdf/inaugural.pdf" target="_blank">Slides</a></td>
   </tr>
+  <tr>
+    <td class="tg-c3ow">06/03/2022 - 4:00 PM</td>
+    <td class="tg-c3ow"> Ipsit,Eeshaan </td>
+    <td class="tg-c3ow">Biweekly Presentation 1 (Microsoft Teams)</td>
+    <td class="tg-c3ow"></td>
+  </tr>
 </tbody>
 </table></div>
