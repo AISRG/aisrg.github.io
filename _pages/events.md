@@ -33,7 +33,7 @@ nav: true
   <tr>
     <td class="tg-c3ow">06/03/2022 - 4:00 PM</td>
     <td class="tg-c3ow"> Ipsit,Eeshaan </td>
-    <td class="tg-c3ow">Biweekly Presentation 1 (Microsoft Teams)</td>
+    <td class="tg-c3ow"> DARTS (Microsoft Teams)</td>
     <td class="tg-c3ow"><a href="https://github.com/AISRG/OPT/blob/main/NAS/06-03-2022-Ipsit-DARTS.pdf" target="_blank">Slides</a></td>
   </tr>
 </tbody>
